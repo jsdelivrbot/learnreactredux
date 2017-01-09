@@ -1,2 +1,2 @@
 
-export const YouTubeApiKey = "YOUR KEY  HERE";
+export const OpenWeatherMapApiKey = "YOUR KEY  HERE";
